@@ -1,6 +1,7 @@
 # Queue implementations
 
 * NetMq (https://mikaelkoskinen.net/post/netmq-and-creating-a-dynamic-worker-per-task)
+* RabbitMQ
 
 # ServiceBus
 
